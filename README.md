@@ -1,4 +1,4 @@
-# FEMA NFIP Claims for New York City
+# National Flood Insurance Program Data for New York City
 Author: Mark Bauer
 
 Work in progress.
