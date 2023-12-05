@@ -1,6 +1,8 @@
 # National Flood Insurance Program Data for New York City
 Author: Mark Bauer
 
+![cover photo](figures/cover-photo.png)
+
 National Flood Insurance Program (NFIP) Data for New York City using Python. Work in progress.
 
 ## Say Hello!
