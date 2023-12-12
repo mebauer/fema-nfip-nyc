@@ -1,9 +1,9 @@
 # National Flood Insurance Program Data for New York City
 Author: Mark Bauer
 
-![cover photo](figures/effective-policies.png)  
-
 ![cover photo](figures/original-policies.png)
+
+![cover photo](figures/effective-policies.png)  
 
 ![cover photo](figures/total-coverage.png)  
 
