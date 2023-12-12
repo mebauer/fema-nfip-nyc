@@ -5,6 +5,10 @@ Author: Mark Bauer
 
 ![cover photo](figures/original-policies.png)
 
+![cover photo](figures/total-coverage.png)  
+
+![cover photo](figures/total-policy-fee.png)
+
 ## About the Project
 National Flood Insurance Program (NFIP) Data for New York City using Python. Work in progress.
 
