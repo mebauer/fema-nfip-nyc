@@ -35,5 +35,5 @@ Exploring National Flood Insurance Program (NFIP) Data for New York City using t
 ## 4. Say Hello!
 Contact information:    
 LinkedIn: [markebauer](https://www.linkedin.com/in/markebauer/)  
-Twitter: [markbauerwater](https://twitter.com/markbauerwater) 
+Twitter: [markbauerwater](https://twitter.com/markbauerwater)  
 GitHub: [mebauer](https://github.com/mebauer)
