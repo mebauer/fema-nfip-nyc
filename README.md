@@ -2,10 +2,10 @@
 Author: Mark Bauer
 
 ## Table of Contents
-   [1. About the Project](##1-About-the-Project)
-   [2. OpenFEMA API Documentation](##2-OpenFEMA-API-Documentation)
-   [3. Additional Resources](##3-Additional-Resources)
-   [4. Say Hello](##4-Say-Hello)
+   * [1. About the Project](#1-About-the-Project)
+   * [2. OpenFEMA API Documentation](#2-OpenFEMA-API-Documentation)
+   * [3. Additional Resources](#3-Additional-Resources)
+   * [4. Say Hello](#4-Say-Hello)
 
 ![cover photo](figures/original-policies.png)
 
