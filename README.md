@@ -18,7 +18,7 @@ Author: Mark Bauer
 ## 1. About the Project
 This project attempts to explore the National Flood Insurance Program (NFIP) Data for New York City using the Python programming language. This project includes three notebooks:
 * [data-wrangling.ipynb](https://github.com/mebauer/fema-nfip-nyc/blob/master/data-wrangling.ipynb): How to download NFIP data from the OpenFEMA API.
-* [sample-analysis-policies.ipynb](https://github.com/mebauer/fema-nfip-nyc/blob/master/sample-analysis-policies.ipynb): Sample plots and visualizations for NFIP polcies.
+* [sample-analysis-policies.ipynb](https://github.com/mebauer/fema-nfip-nyc/blob/master/sample-analysis-policies.ipynb): Sample plots and visualizations for NFIP policies.
 * [sample-analysis-claims.ipynb](https://github.com/mebauer/fema-nfip-nyc/blob/master/sample-analysis-claims.ipynb): Sample plots and visualizations for NFIP claims.
 
 ## 2. OpenFEMA API Documentation
