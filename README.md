@@ -1,4 +1,4 @@
-# National Flood Insurance Program (NFIP) Data for New York City
+# Exploring National Flood Insurance Program (NFIP) Data for New York City
 Author: Mark Bauer
 
 ## Table of Contents
@@ -16,9 +16,10 @@ Author: Mark Bauer
 ![cover photo](figures/total-policy-fee.png)
 
 ## 1. About the Project
-Exploring National Flood Insurance Program (NFIP) Data for New York City using the Python programming language. This project includes two notebooks:
+This project attempts to explore the National Flood Insurance Program (NFIP) Data for New York City using the Python programming language. This project includes three notebooks:
 * [data-wrangling.ipynb](https://github.com/mebauer/fema-nfip-nyc/blob/master/data-wrangling.ipynb): How to download NFIP data from the OpenFEMA API.
-* [sample-analysis.ipynb](https://github.com/mebauer/fema-nfip-nyc/blob/master/sample-analysis.ipynb): Sample plots and visualizations.
+* [sample-analysis-policies.ipynb](https://github.com/mebauer/fema-nfip-nyc/blob/master/sample-analysis-policies.ipynb): Sample plots and visualizations for NFIP polcies.
+* [sample-analysis-claims.ipynb](https://github.com/mebauer/fema-nfip-nyc/blob/master/sample-analysis-claims.ipynb): Sample plots and visualizations for NFIP claims.
 
 ## 2. OpenFEMA API Documentation
 * [OpenFEMA](https://www.fema.gov/about/reports-and-data/openfema): The public’s resource for FEMA program data. Promoting a culture of Open Government and increasing transparency, participation, and collaboration among the Whole Community in support of FEMA's mission to help people before, during, and after disasters.
