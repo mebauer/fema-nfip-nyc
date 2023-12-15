@@ -7,13 +7,13 @@ Author: Mark Bauer
    * [3. Additional Resources](#3-Additional-Resources)
    * [4. Say Hello](#4-Say-Hello)
 
-![cover photo](figures/original-policies.png)
-
 ![cover photo](figures/effective-policies.png)  
 
 ![cover photo](figures/total-coverage.png)  
 
-![cover photo](figures/total-policy-fee.png)
+![cover photo](figures/count-claims.png)
+
+![cover photo](figures/total-payments.png)
 
 ## 1. About the Project
 This project attempts to explore the National Flood Insurance Program (NFIP) Data for New York City using the Python programming language. This project includes three notebooks:
